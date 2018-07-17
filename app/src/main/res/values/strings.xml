@@ -1,0 +1,9 @@
+<resources>
+    <string name="aap_login_phone">请输入手机号</string>
+    <string name="aap_login_psw">请输入密码</string>
+    <string name="aap_login">登录</string>
+    <string name="aap_xianshi">显示</string>
+    <string name="aap_net">网络请求</string>
+    <string name="aap_">请输入手机号</string>
+    <string name="app_name">WHstudying</string>
+</resources>

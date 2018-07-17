@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\banner3.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\banner3.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\net_error_bg.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\net_error_bg.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\banner1.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\banner1.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_progress.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\ic_progress.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\banner2.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\banner2.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\img_network_error.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\mipmap-xhdpi\\img_network_error.png"
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\none_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\none_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_udp.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_udp.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_network_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\no_network_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_broadcast.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_test_broadcast.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_progress_dialog_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\include_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_or_gride.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_list_or_gride.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_empty.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\view_empty.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test_recycle_view.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_test_recycle_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_loading.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\view_loading.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view_layout1.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\loading_view_layout1.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_error.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\view_error.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_view_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\loading_view_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\error_view_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\error_view_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_toolbar.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_toolbar.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_item_photo.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_item_photo.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_activity_photo_pager.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_activity_photo_pager.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hot_point.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_hot_point.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_picker_item_pager.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_picker_item_pager.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\state_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_item_directory.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_item_directory.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_picker_fragment_image_pager.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_picker_fragment_image_pager.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_fragment_photo_picker.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_fragment_photo_picker.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event_bus.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_event_bus.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\state_layout1.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\state_layout1.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_base_materialdialog.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\dialog_base_materialdialog.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_text.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_edit_text.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_broadcast.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_get_broadcast.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recycler.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\item_recycler.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\empty_view_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\empty_view_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\__picker_activity_photo_picker.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\me.iwf.photopicker\\PhotoPicker\\0.8.4\\res\\layout\\__picker_activity_photo_picker.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_udp2.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_udp2.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_banner.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_banner.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_get_event_bus.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\layout\\activity_get_event_bus.xml"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0-alpha1\\res\\layout\\abc_alert_dialog_material.xml"
+    }
+]

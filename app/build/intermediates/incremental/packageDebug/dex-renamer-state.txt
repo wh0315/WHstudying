@@ -1,0 +1,7 @@
+#Thu Jul 05 17:01:05 CST 2018
+base.0=E\:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a65f697e42c677baeaa63307d1c0339fab2f6238
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e1b4c0b719f3ae93d9a20b89765a729bc2cee9c6\\classes.dex
+base.1=E\:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e1b4c0b719f3ae93d9a20b89765a729bc2cee9c6
+file.0=E\:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a65f697e42c677baeaa63307d1c0339fab2f6238\\classes.dex

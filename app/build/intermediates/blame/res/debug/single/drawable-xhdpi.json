@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_tx_on.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_wechat.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_qzone_off.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_error.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_loading.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_renren_on.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_wxcircle.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_empty.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_douban_off.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_qq_off.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_renren_off.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_qq_on.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_douban_on.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_tx_off.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_qzone_on.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_wechat_gray.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_wxcircle_gray.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_sina_off.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "E:\\androidstudiodowndemo\\WHstudying\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\umeng_socialize_sina_on.png",
+        "source": "E:\\androidstudiodowndemo\\WHstudying\\app\\src\\main\\res\\drawable-xhdpi\\umeng_socialize_sina_on.png"
+    }
+]
